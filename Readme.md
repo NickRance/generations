@@ -11,4 +11,4 @@ npm install --save
 npm start
 ```
 4. Open [localhost:3000](http://localhost:3000) in your browser
-5. Use your own GEDCOM file or a try a (demo file)[http://heiner-eichmann.de/gedcom/simple.htm]
+5. Use your own GEDCOM file or a try a [demo file](http://heiner-eichmann.de/gedcom/simple.htm)
